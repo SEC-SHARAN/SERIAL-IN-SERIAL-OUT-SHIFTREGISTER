@@ -65,3 +65,5 @@ Developed by: RegisterNumber:
 ![Screenshot 2024-12-14 120731](https://github.com/user-attachments/assets/a08ac927-0bbe-4a40-a39a-ed905d634293)
 
 **RESULTS**
+SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
+
